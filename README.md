@@ -1,2 +1,2 @@
 # Diagrams_P-23
-1) Diagram - 23.01.2024 [[ОСНОВИ АЛГОРИТМІЗАЦІЇ](https://github.com/xadeyll/Diagrams_P-23/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%97.drawio)https://github.com/xadeyll/Diagrams_P-23/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%97.drawio].
+1) Diagram - 23.01.2024 [[ОСНОВИ АЛГОРИТМІЗАЦІЇ].
