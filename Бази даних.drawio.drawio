@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T18:21:29.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="GtcazypYp7lt2CNDpwGH" version="23.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-30T18:24:06.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="GKhPU6MzqVSkvv3xfEV8" version="23.0.2" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2074" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="et1AQKFfg7Gkx5clfVa--19" value="Sum += r[i]" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="410" y="736" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="et1AQKFfg7Gkx5clfVa--21" value="S =" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="et1AQKFfg7Gkx5clfVa--21" value="Sum" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="410" y="856" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="et1AQKFfg7Gkx5clfVa--22" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
@@ -156,7 +156,7 @@
             <mxPoint x="459.5" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4hgOMiZPdsxpsCkuBJQi-3" value="n, r[100], b, i, s" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="4hgOMiZPdsxpsCkuBJQi-3" value="n, r[100], b, i, S" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4hgOMiZPdsxpsCkuBJQi-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -280,7 +280,7 @@
             <mxPoint x="459.5" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vYucmQ-nVQagHwfldWx8-18" value="S = " style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="vYucmQ-nVQagHwfldWx8-18" value="S " style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vYucmQ-nVQagHwfldWx8-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
